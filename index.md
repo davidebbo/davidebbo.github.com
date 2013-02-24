@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: David Ebbo's blog
+tagline: Azure, NuGet, ASP.NET and more
 ---
 {% include JB/setup %}
 
